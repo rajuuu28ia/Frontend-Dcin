@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Drama Cuan - iOS Style Streaming",
+  "description": "A premium streaming application interface inspired by iOS design, featuring a cinematic hero section, horizontal categories, and high-quality movie grids with Gemini-powered search capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
